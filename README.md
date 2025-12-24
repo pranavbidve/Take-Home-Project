@@ -89,12 +89,13 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap
 ```
 TakeHomeProject/
 ├── README.md                      
-├── Classification.ipynb           # Income classification model
-├── Segmentation.ipynb            # Customer segmentation model
-├── census-bureau.data            # Raw data
-├── census-bureau.columns         # Column names
-├── census_processed.csv          # Preprocessed data (generated)
-└── ML-TakehomeProject.pdf        # Project report
+├── Classification.ipynb           
+├── Segmentation.ipynb           
+├── census-bureau.data            
+├── census-bureau.columns        
+├── census_processed.csv          # Preprocessed data 
+├── Client Report.pdf             # final report
+└── ML-TakehomeProject.pdf        
 ```
 
 ## Key Results
